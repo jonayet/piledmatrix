@@ -1,0 +1,8 @@
+DIR_U = 1
+DIR_R = 2
+DIR_D = 4
+DIR_L = 8
+DIR_RU = 3
+DIR_RD = 6
+DIR_LU = 9
+DIR_LD = 12
